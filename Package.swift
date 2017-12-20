@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "swift-sodium",
+    name: "Sodium",
     products: [
         .library(
             name: "Sodium",
